@@ -4,6 +4,7 @@ aiohttp
 albumentations
 alembic
 av
+blake3
 cachetools
 chardet
 clip-interrogator
@@ -14,6 +15,7 @@ dill
 einops
 filelock
 GitPython
+glfw
 imageio-ffmpeg
 importlib-metadata
 matrix-nio
@@ -26,6 +28,7 @@ py-cpuinfo
 pydantic-settings
 pydantic
 PyGithub
+PyOpenGL
 python-dateutil
 pyyaml
 qrcode[pil]
